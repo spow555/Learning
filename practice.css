@@ -1,0 +1,11 @@
+div, p{
+  hieght: auto;
+  width: autopx;
+  padding: 50px;
+  font-size: 50px;
+  
+  }
+
+div {
+  background-color: blue;
+}
